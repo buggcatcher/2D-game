@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "readline.h": "c",
+        "minishell.h": "c",
+        "libft.h": "c",
+        "type_traits": "c",
+        "stdio.h": "c",
+        "keysymdef.h": "c",
+        "keysym.h": "c",
+        "x.h": "c"
+    },
+    "search.useParentIgnoreFiles": false
+}
