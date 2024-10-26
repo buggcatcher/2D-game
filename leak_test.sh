@@ -1,6 +1,10 @@
 #!/bin/bash
+# Permette di testare il programma so_long con mappe che potrebbero causare perdite di memoria
+
+# Utilizzo:
 # dai i permessi necessari con chmod +x leak_test.sh prima di fare ./leak_test.sh
 # leak_test.sh, so_long e /maps devono essere sullo stesso livello
+# assicurati di testare anche delle mappe valide
 
 MAPS_DIR="./maps"
 maps=("leak1.ber" "leak2.ber" "leak3.ber" "leak4.ber")
