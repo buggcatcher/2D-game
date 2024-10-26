@@ -1,5 +1,5 @@
 #!/bin/bash
-# Permette di testare il programma so_long con mappe invalide
+# Permette di testare il parsing del programma so_long con mappe invalide
 
 # Utilizzo:
 # togli tutti i permessi a nosudo.ber con chmod 000 maps/nosudo.ber

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Permette di testare il programma so_long con mappe che potrebbero causare perdite di memoria
+# Permette di testare il programma so_long con mappe invalide che potrebbero causare perdite di memoria
 
 # Utilizzo:
 # dai i permessi necessari con chmod +x leak_test.sh prima di fare ./leak_test.sh
